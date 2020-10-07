@@ -4,3 +4,4 @@ new
 boos
 i am dev
 createin feature1
+git is a free software
